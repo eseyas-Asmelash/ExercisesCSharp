@@ -1,1 +1,1 @@
-"hej, This a collection of seven simple console app with c#" 
+This a collection of seven simple console apps made with c#" 
