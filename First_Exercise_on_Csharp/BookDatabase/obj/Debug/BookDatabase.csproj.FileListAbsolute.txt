@@ -1,0 +1,6 @@
+C:\Users\aies2\Desktop\ExerciseC#\First_Exercise_on_Csharp\BookDatabase\bin\Debug\BookDatabase.exe.config
+C:\Users\aies2\Desktop\ExerciseC#\First_Exercise_on_Csharp\BookDatabase\bin\Debug\BookDatabase.exe
+C:\Users\aies2\Desktop\ExerciseC#\First_Exercise_on_Csharp\BookDatabase\bin\Debug\BookDatabase.pdb
+C:\Users\aies2\Desktop\ExerciseC#\First_Exercise_on_Csharp\BookDatabase\obj\Debug\BookDatabase.csprojAssemblyReference.cache
+C:\Users\aies2\Desktop\ExerciseC#\First_Exercise_on_Csharp\BookDatabase\obj\Debug\BookDatabase.exe
+C:\Users\aies2\Desktop\ExerciseC#\First_Exercise_on_Csharp\BookDatabase\obj\Debug\BookDatabase.pdb
